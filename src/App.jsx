@@ -27,7 +27,7 @@ export default () =>
 
         <div className="Cards">
 
-            <Card titulo="#13 - Mega" color="#E6E6FA">
+            <Card titulo="#13 - Mega" color="#8DB6CD">
                 <Mega>
                 </Mega>
             </Card>
