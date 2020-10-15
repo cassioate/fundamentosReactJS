@@ -3,14 +3,15 @@
 }
 
 .TabelaProdutos th {
-    background-color: #283cae;
-    color: #fff;
+    background-color:#20a6af;
+    color: white;
 }
 
 .TabelaProdutos .Par {
-    background-color: #ddd;
+    background-color:#8a8e8f;
 }
 
 .TabelaProdutos .Impar {
     background-color: #ccc;
 }
+

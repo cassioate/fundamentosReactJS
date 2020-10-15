@@ -1,23 +1,23 @@
-import "./App.css";
-import React from "react";
+import './App.css'
+import React from 'react'
 
-import Card from "./components/layout/Card";
+import Card from './Componentes/Layout/Card'
 
-import Mega from "./components/mega/Mega";
-import Contador from "./components/contador/Contador";
-import Input from "./components/formulario/Input";
-import IndiretaPai from "./components/comunicacao/IndiretaPai";
-import DiretaPai from "./components/comunicacao/DiretaPai";
-import UsuarioInfo from "./components/condicional/UsuarioInfo";
-import ParOuImpar from "./components/condicional/ParOuImpar";
-import TabelaProdutos from "./components/repeticao/TabelaProdutos";
-import ListaAlunos from "./components/repeticao/ListaAlunos";
-import Familia from "./components/basicos/Familia";
-import FamiliaMembro from "./components/basicos/FamiliaMembro";
-import Aleatorio from "./components/basicos/Aleatorio";
-import Fragmento from "./components/basicos/Fragmento";
-import ComParametro from "./components/basicos/ComParametro";
-import Primeiro from "./components/basicos/Primeiro";
+import Mega from './Componentes/mega/Mega'
+import Contador from './Componentes/contador/Contador'
+import Input from './Componentes/formulario/input'
+import IndiretaPai from './Componentes/comunicacao/IndiretaPai'
+import DiretaPai from './Componentes/comunicacao/DiretaPai'
+import UsuarioInfo from './Componentes/condicional/UsuarioInfo'
+import ParOuImpar from './Componentes/condicional/ParOuImpar'
+import TabelaProdutos from './Componentes/repeticao/TabelaProdutos'
+import ListaAlunos from './Componentes/repeticao/ListaAlunos'
+import Familia from './Componentes/basicos/Familia'
+import FamiliaMembro from './Componentes/basicos/FamiliaMembro'
+import Aleatorio from './Componentes/basicos/Aleatorio'
+import Fragmento from './Componentes/basicos/Fragmento'
+import ComParametro from './Componentes/basicos/ComParametro'
+import Primeiro from './Componentes/basicos/Primeiro'
 
 export default () =>
     <div className="App">
@@ -109,3 +109,4 @@ export default () =>
             </Card>
         </div>
     </div>
+

@@ -4,8 +4,8 @@ export default props => {
     return (
         <div>
             <span>{props.nome} </span>
-            <span><strong>{props.idade}</strong> </span>
-            <span>{props.nerd ? 'Verdadeiro' : 'Falso'}!</span>
+            <span>{props.idade} </span>
+            <span>{props.nerd ? 'verdadeiro' : 'falso'}!</span>
         </div>
     )
 }
